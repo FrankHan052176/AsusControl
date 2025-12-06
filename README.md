@@ -2,6 +2,9 @@
 Power & GPU Management for ASUS Laptops.  
 A plugin for [DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pseudofractal/AsusControl/main/assets/popup.png" alt="Asus Control Center Popup"/>
+</div>
 
 **Asus Control Center** is a plugin for DankMaterialShell that integrates `asusctl` and `supergfxctl` directly into your desktop interface. It provides a seamless way to manage performance profiles and graphics switching without opening a terminal.
 
